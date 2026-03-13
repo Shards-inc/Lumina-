@@ -21,14 +21,14 @@
     "cors": "^2.8.5",
     "helmet": "^8.1.0",
     "vite": "^7.2.4",
-    "@vitejs/plugin-react": "^5.1.1",
+    "@vitejs/plugin-react": "^6.0.0",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "bcryptjs": "^3.0.3"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
-    "@vitejs/plugin-react": "^5.0.0",
+    "@vitejs/plugin-react": "^6.0.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }
